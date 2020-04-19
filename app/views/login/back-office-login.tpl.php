@@ -4,8 +4,9 @@ if (empty($_SESSION['user']))
 {
     ?>
   <p class="display-4">
-      Bienvenue dans le backOffice <br /><strong>Dans les shoe</strong>...
+      Bienvenue dans le backOffice <br />
   </p>
+  <p><strong>Démo</strong> -> Login = admin@oshop.fr / Password = cameleon</p>
   <?php
         if (!empty($_SESSION['loginMessage'])):
     ?>
