@@ -1,9 +1,10 @@
-# Oblog Project
+# Oshop Back-office
 
 Ce projet est un back-office pour le projet oshop 
 
 Contributors
 --
+- Axel P. : Aide à la mise en production
 - Ecole O'Clock : Singleton Pattern pour la connexion à la BDD
 - Damien B. : méthode getShortDescription()
 - Ben O'clock : Dépendance Alto-Dispatcher 
